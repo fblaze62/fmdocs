@@ -20,6 +20,9 @@ hero:
     alt: FBlazeMatrix
 
 features:
+  - icon: 📢
+    title: 公告
+    details: 近期整合包添加了模组导致了一些Bug，因此会保持关闭。目前在努力排查中。
   - icon: 🔥
     title: 自由 开放 充满创造力
     details: 在这里，没有边界，只有想象力的极限！
@@ -27,11 +30,8 @@ features:
     title: 安全托管 全天备份
     details: 稳定运行，安心游玩，我们守护你的每一块方块！
   - icon: 🦊
-    title: 多模组
+    title: 玩法多样
     details: 想要机械动力？暮色森林？还是农夫乐事？全都能满足！
-  - icon: 🔌
-    title: 多插件
-    details: 领地保护、传送、经济……一应俱全
 ---
 
 ## 欢迎！
