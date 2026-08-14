@@ -22,7 +22,7 @@ hero:
 features:
   - icon: 📢
     title: 公告
-    details: 近期整合包添加了模组导致了一些Bug，因此会保持关闭。目前在努力排查中。
+    details: AMD 显卡请在视频设置 > Voxy > General 里禁用“Enable Voxy”选项。
   - icon: 🔥
     title: 自由 开放 充满创造力
     details: 在这里，没有边界，只有想象力的极限！
