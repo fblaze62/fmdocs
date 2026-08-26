@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 玩家指南
-      link: /guide/player/download-modpack
+      link: /guide/player/getting-started/download-modpack
     - theme: alt
       text: 管理员指南
-      link: /guide/op/plugin/AuthMe
+      link: /guide/op/plugins/AuthMe
     - theme: alt
       text: 贡献指南
       link: /guide/contribute/docs/edit

@@ -98,7 +98,7 @@ export default defineConfig({
       { text: "首页", link: "/" },
       {
         text: "玩家指南",
-        link: "/guide/player/download-modpack",
+        link: "/guide/player/getting-started/download-modpack",
         activeMatch: "/01.玩家指南/01.加入服务器",
       },
       {
