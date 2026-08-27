@@ -168,18 +168,18 @@ export const teekConfig = defineTeekConfig({
   //   ],
   //   autoScroll: true,
   // },
-  social: [
-    {
-      icon: "icon-qq",
-      name: "QQ",
-      link: "https://qm.qq.com/q/WXI8ntxaow",
-    },
-    {
-      icon: "icon-github",
-      name: "GitHub",
-      link: "https://github.com/fblaze62/fmdocs",
-    },
-  ],
+  // social: [
+  //   {
+  //     icon: "icon-qq",
+  //     name: "QQ",
+  //     link: "https://qm.qq.com/q/WXI8ntxaow",
+  //   },
+  //   {
+  //     icon: "icon-github",
+  //     name: "GitHub",
+  //     link: "https://github.com/fblaze62/fmdocs",
+  //   },
+  // ],
   themeEnhance: {
     enabled: false, // 启用主题增强功能
     themeColor: {
