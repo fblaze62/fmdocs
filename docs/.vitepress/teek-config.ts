@@ -12,7 +12,7 @@ export const teekConfig = defineTeekConfig({
   loading: false,
   sidebarTrigger: true,
   author: { name: "FeatherBlaze", link: "https://github.com/fblaze62" },
-  blogger: {
+  // blogger: {
   //   name: "飞焰矩阵 文档",
   //   slogan: "",
   //   avatar: "https://gcore.jsdelivr.net/gh/fblaze62/fblaze-docs/docs/public/fm-logo-mini.png",
