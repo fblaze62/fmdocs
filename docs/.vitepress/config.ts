@@ -163,7 +163,7 @@ export default defineConfig({
       },
       {
         icon: "github",
-        link: "https://github.com/fblaze62/fblaze-docs",
+        link: "https://github.com/fblaze62/fmdocs",
       },
     ],
     search: {
