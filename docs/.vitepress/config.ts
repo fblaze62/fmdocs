@@ -103,7 +103,7 @@ export default defineConfig({
       },
       {
         text: "管理员指南",
-        link: "/guide/op/plugin/AuthMe",
+        link: "/guide/op/plugins/AuthMe",
         activeMatch: "/02.管理员指南/01.插件/",
       },
       {
