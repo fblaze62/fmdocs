@@ -42,7 +42,7 @@ features:
 
 ### 管理员团队
 
-- <mark>服主</mark><mark>Q群群主</mark><mark>整合包作者</mark><mark>文档贡献者</mark> FeatherBlaze<br>
+- <mark>服主</mark><mark>Q群群主</mark><mark>整合包维护</mark><mark>文档管理</mark> FeatherBlaze<br>
   <TkIcon icon="mdi:minecraft" /> FeaBlaze<br>
   <TkIcon icon="arcticons:minecraft-steve" /> [FeatherBlaze (FeaBlaze/FeatherBlaze/FBlaze62/FB_MC)](https://littleskin.cn/skinlib?filter=skin&uploader=3503129)<br>
   <TkIcon icon="fa7-solid:envelope" /> [feablaze@outlook.com](mailto:feablaze@outlook.com)<br>
