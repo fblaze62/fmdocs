@@ -102,13 +102,13 @@ export default defineConfig({
         activeMatch: "/01.玩家指南/01.加入服务器",
       },
       {
-        text: "管理员指南",
-        link: "/guide/op/plugins/AuthMe",
-        activeMatch: "/02.管理员指南/01.插件/",
+        text: "OP指南",
+        link: "/guide/ops/plugins/AuthMe",
+        activeMatch: "/02.OP指南/01.插件/",
       },
       {
         text: "贡献指南",
-        link: "/guide/contributing/docs/edit",
+        link: "/guide/contribution/docs/edit",
         activeMatch: "/03.贡献指南/01.维护文档/",
       },
       // {
