@@ -65,7 +65,7 @@ features:
 
 <sup>1</sup>：目前使用回档的方法对建筑进行保护，如建筑被破坏请及时反馈。
 
-<sup>2</sup>：在使用 11th Gen Intel® Core™ i5-1135G7 处理器、16GB 内存及核显的计算机上，同时运行1个浏览器（包括浏览器、QQ等浏览器内核程序）+整合包，平均内存占用约为70~80%，游戏帧率约为20~30FPS。
+<sup>2</sup>：在使用 11th Gen Intel® Core™ i5-1135G7 处理器、16GB 内存及核显的计算机上，同时运行1个浏览器（包括浏览器、QQ等使用浏览器内核的程序）+整合包，平均内存占用约为70~80%，游戏帧率约为20~30FPS。
 
 <script setup lang="ts">
 import { onMounted } from "vue";
