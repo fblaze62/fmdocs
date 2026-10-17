@@ -21,7 +21,7 @@ hero:
 
 features:
   - icon: ⚔️
-    title: 沉浸游玩 惊现战斗
+    title: 沉浸游玩 惊险战斗
     details: 烹饪、地牢、机械等多种玩法，总有你的心头好！
   - icon: ⛰️
     title: 宏伟地形 多彩群系
@@ -31,7 +31,7 @@ features:
     details: 我们守护你的每一个方块！<sup>1</sup>
   - icon: 🛠
     title: 合理优化 流畅运行
-    details: 添加合适的优化模组，办公本也能用。<sup>2</sup>
+    details: 添加合适的优化模组，办公本也能玩。<sup>2</sup>
 ---
 
 ## 欢迎！
@@ -61,9 +61,11 @@ features:
 
 在游玩过程中有任何建议和想法，请反馈到QQ群 [FBlaze Matrix·Players](https://qm.qq.com/q/WXI8ntxaow)。你也可以通过 [<TkIcon icon="fa7-solid:envelope" />mc@fblaze62.top](mailto:mc@fblaze62.top) 联系我们。
 
-<sup>1</sup>：目前使用回档的方法对建筑进行保护，如遇建筑被破坏请及时反馈。
+---
 
-<sup>2</sup>：在 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz (2.42 GHz) 处理器、16GB 内存并使用核显的计算机上，同时运行1个浏览器+整合包，平均内存占用约为80~90，游戏帧率约为20~30FPS。
+<sup>1</sup>：目前使用回档的方法对建筑进行保护，如建筑被破坏请及时反馈。
+
+<sup>2</sup>：在使用 11th Gen Intel® Core™ i5-1135G7 处理器、16GB 内存及核显的计算机上，同时运行1个浏览器（包括浏览器、QQ等浏览器内核程序）+整合包，平均内存占用约为70~80%，游戏帧率约为20~30FPS。
 
 <script setup lang="ts">
 import { onMounted } from "vue";
