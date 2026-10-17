@@ -20,18 +20,18 @@ hero:
     alt: FBlazeMatrix
 
 features:
-  - icon: 📢
-    title: 公告
-    details: AMD 显卡请在视频设置 > Voxy > General 里禁用“Enable Voxy”选项。
-  - icon: 🔥
-    title: 自由 开放 充满创造力
-    details: 在这里，没有边界，只有想象力的极限！
+  - icon: ⚔️
+    title: 沉浸游玩 惊现战斗
+    details: 烹饪、地牢、机械等多种玩法，总有你的心头好！
+  - icon: ⛰️
+    title: 宏伟地形 多彩群系
+    details: WWOO 地形模组+多个奇幻群系模组，配合 Voxy 模组，尽情欣赏自然景观！
   - icon: 🔒
-    title: 安全托管 全天备份
-    details: 稳定运行，安心游玩，我们守护你的每一块方块！
-  - icon: 🦊
-    title: 玩法多样
-    details: 想要机械动力？暮色森林？还是农夫乐事？全都能满足！
+    title: 稳定管理 安全游玩
+    details: 我们守护你的每一个方块！<sup>1</sup>
+  - icon: 🛠
+    title: 合理优化 流畅运行
+    details: 添加合适的优化模组，办公本也能用。<sup>2</sup>
 ---
 
 ## 欢迎！
@@ -60,6 +60,10 @@ features:
 ## 反馈交流
 
 在游玩过程中有任何建议和想法，请反馈到QQ群 [FBlaze Matrix·Players](https://qm.qq.com/q/WXI8ntxaow)。你也可以通过 [<TkIcon icon="fa7-solid:envelope" />mc@fblaze62.top](mailto:mc@fblaze62.top) 联系我们。
+
+<sup>1</sup>：目前使用回档的方法对建筑进行保护，如遇建筑被破坏请及时反馈。
+
+<sup>2</sup>：在 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz (2.42 GHz) 处理器、16GB 内存并使用核显的计算机上，同时运行1个浏览器+整合包，平均内存占用约为80~90，游戏帧率约为20~30FPS。
 
 <script setup lang="ts">
 import { onMounted } from "vue";
